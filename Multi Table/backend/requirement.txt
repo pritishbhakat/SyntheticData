@@ -1,0 +1,5 @@
+pip install Flask
+pip install Flask-CORS
+pip install pandas
+pip install sdv
+pip install Werkzeug
